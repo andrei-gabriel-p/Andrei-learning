@@ -1,2 +1,3 @@
-# Andrei-learning
-repo for learning
+# First website
+Repo for the first site
+
